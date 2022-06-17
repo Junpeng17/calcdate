@@ -1,5 +1,5 @@
 # calcdate
-C++ Data calculator
+C++ Date calculator
 
 一个用C++实现的日期计算器，支持计算两个日期之间的间隔天数、日期推算（往前和往后）功能。
 
