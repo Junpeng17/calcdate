@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 	datestr date2("2022-09-20");
 	int day = (date1, date2);
 
-	cout << "2022Äê05ÔÂ09ÈÕ¾à2022Äê09ÔÂ20ÈÕÏà²î" << day << "Ìì" << endl;
+	cout << "2022å¹´5æœˆ9æ—¥è·2022å¹´9æœˆ20æ—¥" << day << "å¤©" << endl;
 
 	calc("2022-05-01,2022-08-13");
 
