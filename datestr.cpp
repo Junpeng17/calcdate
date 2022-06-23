@@ -2,7 +2,7 @@
 
 datestr::datestr(string str)
 {
-	if (!str.empty()) {
+	if (!str.empty() && str.length() <= 10) {
 		this->data = str;
 	}
 	
