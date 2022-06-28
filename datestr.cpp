@@ -5,7 +5,9 @@ datestr::datestr(string str)
 	if (!str.empty() && str.length() <= 10) {
 		this->data = str;
 	}
-	
+	else {
+		cout << "输入有误！" << endl;
+	}
 }
 
 string operator+(const datestr& d1, const datestr& d2)
